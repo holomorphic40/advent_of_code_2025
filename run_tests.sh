@@ -1,1 +1,0 @@
-python day1.py day1_input_test1.txt
